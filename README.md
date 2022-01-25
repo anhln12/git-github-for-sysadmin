@@ -257,10 +257,10 @@ Kết quả:
 Như vậy bạn đã có thể trình bày github của mình một cách sáng sủa bằng markdown.
 
 <a name="cacthaotacvoigitvagithub"></a>
-##III. Các thao tác với Git và Github
+## III. Các thao tác với Git và Github
 
 <a name="repo"></a>
-###0. Repo
+### 0. Repo
 
 Git là một công cụ để quản lý mã nguồn, nhưng tôi không phải là một coder nên tôi sẽ không sử dụng Git theo cách mà các coder hay sử dụng.
 Tôi sử dụng git và github để lưu trữ các file cấu hình của mình, các script, viết các bài hướng dẫn, các bản nháp,...
@@ -290,10 +290,10 @@ Tương ứng với 3 vị trí này ta có các hành động:
 - Pull: đồng bộ trạng thái từ server về máy trạm - tương đương lệnh `git pull`
 
 <a name="caidat"></a>
-###1. Cài đặt
+### 1. Cài đặt
 
 <a name="11linux"></a>
-####1.1. Linux
+#### 1.1. Linux
 
 Với OS là Ubuntu:
 
@@ -452,7 +452,7 @@ sleep 10
 bằng cách tương tự các bạn có thể tạo thêm nhiều thư mục, file hướng dẫn, cấu hình, script,... tùy ý
 
 <a name="213addcommitpush"></a>
-#####2.1.3. Add, commit, push
+##### 2.1.3. Add, commit, push
 
 Để thực hiện hành động `add` ta sử dụng lệnh sau
 
@@ -510,7 +510,7 @@ hoặc `git commit README.md -m noi dung`
 Sau đó nhập passphrase(nếu cần) hoặc username + password (nếu sử dụng SSH)
 
 <a name="214pull"></a>
-#####2.1.4. Pull
+##### 2.1.4. Pull
 
 Giả sử trên server github của bạn có những thay đổi mà máy local chưa cập nhật những thay đổi đó. Bạn thực hiện lệnh sau:
 
@@ -541,7 +541,7 @@ Tạo repo bằng phần mềm Github
 <img src=http://i.imgur.com/6kXeDfL.png>
 
 <a name="222clone"></a>
-#####2.2.2. Clone
+##### 2.2.2. Clone
 
 Click vào dấu cộng, chọn tab Clone, lựa chọn tổ chức mong muốn và chọn repo cần clone
 
