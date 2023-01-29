@@ -1,6 +1,6 @@
 ## Git và Github cho sysadmin
 
-###Mục lục
+### Mục lục
 
 [I. Mở đầu](#Modau)
 
@@ -307,9 +307,9 @@ Các thiết lập ban đầu:
 
 - Bạn cần thiết lập tên và email của mình để mỗi khi commit lên server sẽ nhận biết được ai commit lên vì một repo có thể có nhiều người tham gia.
 	
-> git config --global user.name "Duc NC"
+> git config --global user.name "Anh LN"
 
-> git config --global user.email nguyencongduc3112@gmail.com
+> git config --global user.email anhle0412@gmail.com
 
 - Lựa chọn trình soạn thảo mặc định, có thể là vi, vim, nano,...
 
@@ -414,7 +414,7 @@ hoặc: `git clone https://github.com/ducnc92/demo1.git /opt/demo` để clone v
 
 <img src=http://i.imgur.com/1DozAVz.png>
 
-Ở đây tôi sử dụng lệnh `git clone git@github.com:ducnc92/demo1.git`
+Ở đây tôi sử dụng lệnh `git clone git@github.com:anhln12/demo1.git`
 
 Lúc này trong thư mục hiện tại sẽ có thêm thư mục demo1 chứa các file trong repo trên github.
 
